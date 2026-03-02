@@ -23,11 +23,12 @@ To run the notebooks, the following Python libraries are required:
 * `scipy`
 * `matplotlib`
 * `jupyter`
+* `pyvisa`
 
 Install them using:
 
 ```bash
-pip install numpy scipy matplotlib jupyter
+pip install numpy scipy matplotlib jupyter pyvisa
 ```
 
 ## How to Use
@@ -45,8 +46,8 @@ pip install numpy scipy matplotlib jupyter
 
 For a complete theoretical explanation, please refer to the full TFG paper:
 
-👉 [Click here to read the PDF](0.Paper_CosmologicalPerturbations.pdf)
+👉 [Click here to read the PDF](LabIV_MuonLifetimeExperiment.pdf)
 
 ## Author
 
-Developed by **Jose Carlos Díaz Sierra**, **Alejandro Cabanelas Serrano** and **Steven Thomas** for the End-of-Deegree Project, as part of the Laboratory IV of the Master in Cosmology and Astroparticles Physics at University of Geneva.
+Developed by **Jose Carlos Díaz Sierra**, **Alejandro Cabanelas Serrano** and **Steven Thomas** for the Laboratory IV, as part of Master in Cosmology and Astroparticles Physics at University of Geneva.
